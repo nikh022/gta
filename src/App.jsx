@@ -173,7 +173,7 @@ function App() {
               />
             </div>
           </div>
-          <div className="w-full h-screen flex items-center justify-center px-10 bg-black">
+          <div className="w-full h-screen flex items-center justify-center px-10 bg-black overflow-hidden">
             <div className="cntnr flex text-white w-full h-[80%]">
               <div className="lftimg relative w-1/2 h-full">
                 <img
