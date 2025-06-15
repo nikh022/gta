@@ -2,9 +2,10 @@
 
 @font-face {
   font-family: 'Pricedown';
-  src: url('./fonts/pricedown.otf') format('opentype');
+  src: url('/fonts/pricedown.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 .font-pricedown {
